@@ -4,3 +4,5 @@ I don't know the full details on how the code implements each step because i did
 But I still didn't have to read the code for the algorithm implementations because they just worked instantly.
 Mainly an example of how useful chatGPT can be for generating code/proof of concept for how to do things at the start of a project.
 Used chat gpt 4
+
+Chat GPT has clear limitations and moving this project any futher would not be possible without humans writing maintable code. So it's clear this is very limited, but interesting none the less.
